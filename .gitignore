@@ -1,0 +1,20 @@
+# Copyrighted third-party data (Fantacalcio.it exports) - NOT redistributed
+Quotazioni_Fantacalcio_Stagione_*.xlsx
+Statistiche_Fantacalcio_Stagione_*.xlsx
+Moduli Mantra.jpg
+REGOLE*.pdf
+isacufantafebio-rosters-*.xlsx
+
+# Generated / regenerable artifacts (recreate with: python src/run_all.py)
+data/processed/
+outputs/
+dashboard/auction_dashboard.html
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
