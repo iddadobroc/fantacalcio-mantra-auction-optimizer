@@ -18,6 +18,8 @@ answer the questions that actually decide a fantasy auction:
 > other seasons — see [Reproducibility](#reproducibility). Everything is parameterized in
 > `src/config.py`.
 
+![Live auction dashboard](docs/dashboard.png)
+
 ---
 
 ## What it produces
@@ -36,6 +38,8 @@ answer the questions that actually decide a fantasy auction:
   brief, and a printable **expected-standings PDF**.
 
 ### The live auction dashboard
+A **prebuilt copy for this league is included** at `dashboard/auction_dashboard.html` (open it directly in a browser). Regenerate your own with `python src/build_dashboard.py`.
+
 A single HTML file that runs offline (just double-click). During the auction it:
 
 - tracks purchases **per real team** (all 12 managers) with the price paid;

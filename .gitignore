@@ -8,7 +8,6 @@ isacufantafebio-rosters-*.xlsx
 # Generated / regenerable artifacts (recreate with: python src/run_all.py)
 data/processed/
 outputs/
-dashboard/auction_dashboard.html
 
 # Python
 __pycache__/
