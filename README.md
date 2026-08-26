@@ -128,11 +128,14 @@ python src/auction.py --buy "Barella=45" --other "Lautaro"   # CLI what-if
 
 ```
 src/            all pipeline modules + dashboard/report generators (see pipeline above)
-data/           processed datasets (generated) and external enrichment
-outputs/        report, Excel ranking, module comparison, standings PDF, model metrics
-dashboard/      auction_dashboard.html (generated, self-contained, offline)
+dashboard/      auction_dashboard.html  (prebuilt, self-contained, offline)
+data/league/    final league rosters
+data/external/  compiled inputs: injuries, probable line-ups, newcomer enrichment
 notebooks/      walkthrough.ipynb
+docs/           dashboard screenshot
 requirements.txt
+
+# generated locally (not committed): data/processed/, outputs/
 ```
 
 ## Data & disclaimer
