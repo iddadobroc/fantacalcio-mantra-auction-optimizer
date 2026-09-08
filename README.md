@@ -150,5 +150,4 @@ requirements.txt
 
 ---
 
-*Designed and implemented with **Claude Code** — from the initial data audit through modeling,
-optimization, and the live auction dashboard.*
+*Designed and implemented with help of **Claude Code** 
