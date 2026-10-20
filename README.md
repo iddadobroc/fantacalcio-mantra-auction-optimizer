@@ -150,4 +150,3 @@ requirements.txt
 
 ---
 
-*Designed and implemented with help of **Claude Code** 
