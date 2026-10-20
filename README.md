@@ -1,7 +1,7 @@
 # Fantacalcio Mantra Auction Optimizer
 
 A quantitative decision-support system for the **Italian fantasy football (Fantacalcio) auction** —
-built end-to-end with **[Claude Code](https://www.anthropic.com/claude-code)** (Anthropic).
+built end-to-end.
 
 It combines **machine learning**, **statistical modeling** and **combinatorial optimization** to
 answer the questions that actually decide a fantasy auction:
